@@ -1,0 +1,510 @@
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\_tmp\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\_tmp\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\Veronika\Desktop\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\App.baml
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+E:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\Veronika\Google Drive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\Veronika\Desktop\Diplomaor – kopija\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\elvis.sukanovic\OneDrive - Business Solutions d.o.o\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\UC01\Desktop\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\UC01\Desktop\Diplomao\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\Veronika\OneDrive\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+G:\Diploma\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\App.baml
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+G:\Diploma\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\ePosta.g.cs
+C:\Users\Veronika\Desktop\Zapisnik\Zapisnik\obj\Debug\ePosta.baml
+E:\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+E:\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+E:\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+E:\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+E:\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+E:\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+E:\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+E:\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+E:\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+E:\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+E:\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+E:\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+E:\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+E:\Zapisnik\Zapisnik\obj\Debug\ePosta.g.cs
+E:\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+E:\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+E:\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+E:\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+E:\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+E:\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+E:\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+E:\Zapisnik\Zapisnik\obj\Debug\App.baml
+E:\Zapisnik\Zapisnik\obj\Debug\ePosta.baml
+E:\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+E:\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+E:\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+E:\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+E:\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+E:\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+E:\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+E:\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+E:\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+E:\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\ePosta.g.cs
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\ePosta.baml
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\Veronika\OneDrive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\ePosta.g.cs
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\ePosta.baml
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\Veronika\Google Drive\Diplomska naloga\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe.config
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\Zapisnik.exe
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\Zapisnik.pdb
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\ControlzEx.dll
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\LiteDB.dll
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.dll
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\ControlzEx.pdb
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\LiteDB.xml
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.pdb
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.xml
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\ePosta.g.cs
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Opomnik.g.cs
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Ozadje.g.cs
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Predloga.g.cs
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.cache
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Zapisnik_MarkupCompile.lref
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\App.baml
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\ePosta.baml
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Opomnik.baml
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Ozadje.baml
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Predloga.baml
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Zapisnik.g.resources
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Zapisnik.Properties.Resources.resources
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Zapisnik.csproj.CopyComplete
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Zapisnik.exe
+C:\Users\Veronika\Downloads\GitHub\Zapisnik\Zapisnik\obj\Debug\Zapisnik.pdb

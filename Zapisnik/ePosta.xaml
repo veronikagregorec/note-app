@@ -1,0 +1,25 @@
+﻿<Controls:MetroWindow x:Class="Zapisnik.ePosta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zapisnik"
+        mc:Ignorable="d"
+        Title="e-Pošta" Height="635" Width="815" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <TextBox Name="txtZa" HorizontalAlignment="Left" Height="40" Margin="173,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="310" FontSize="18" VerticalContentAlignment="Center"/>
+        <TextBox Name="txtZadeva" HorizontalAlignment="Left" Height="40" Margin="173,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="310" FontSize="18" VerticalContentAlignment="Center"/>
+        <TextBox Name="txtBoxVsebinaePoste"  HorizontalAlignment="Left" Height="213" Margin="173,236,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="538" AcceptsTab="True" AcceptsReturn="True" FontSize="18"/>
+        <TextBlock Text="Za" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="113,58,0,0" />
+        <TextBlock Text="Zadeva" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="81,121,0,0" Width="67"/>
+        <Button Content="Pošlji" Name="Poslji" HorizontalAlignment="Left" Margin="629,491,0,0" VerticalAlignment="Top" Width="82" Height="36" Style="{StaticResource GumbOpomnikinPredloga}" Click="Poslji_Click"/>
+        <Button Content="Priponka" Name="Priponka" HorizontalAlignment="Left" Margin="526,168,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource GumbOpomnikinPredloga}" Click="Priponka_Click"/>
+        <Button Content="Izbriši" Name="Izbriši" HorizontalAlignment="Left" Margin="636,168,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource GumbOpomnikinPredloga}" Click="Izbriši_Click"/>
+        <TextBox Name="txtBoxPriponka" HorizontalAlignment="Left" Height="40" Margin="173,168,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="310" FontSize="18" VerticalContentAlignment="Center"/>
+        <TextBox Name="txtBoxUporabiskoIme" FontSize="18" HorizontalAlignment="Left" Height="40" Margin="270,491,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276" VerticalContentAlignment="Center"/>
+        <TextBlock Text="E-poštni naslov" FontSize="18" HorizontalAlignment="Left" Margin="113,506,0,0" VerticalAlignment="Top" Width="133"/>
+        <PasswordBox FontSize="18" Name="pswBoxPassword" HorizontalAlignment="Left" Margin="270,536,0,0" VerticalAlignment="Top" Width="276" Height="40" VerticalContentAlignment="Center"/>
+        <TextBlock FontSize="18" Text="Geslo" HorizontalAlignment="Left" Margin="189,552,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Controls:MetroWindow>

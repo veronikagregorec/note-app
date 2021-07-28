@@ -1,0 +1,2 @@
+C:\_tmp\Zapisnik\LiteDB\obj\Debug\LiteDB - ne rabim.csprojAssemblyReference.cache
+C:\_tmp\Zapisnik\LiteDB\obj\Debug\LiteDB - ne rabim.csproj.CoreCompileInputs.cache

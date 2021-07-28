@@ -1,0 +1,24 @@
+﻿<Controls:MetroWindow x:Class="Zapisnik.Ozadje"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:Zapisnik"
+        mc:Ignorable="d"
+        Title="Ozadje" Height="195" Width="445" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+
+    <WrapPanel Orientation="Horizontal" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="10">
+        <Button Name="bela"  Margin="10" Width="63" Height="55" Background="White" Click="ClickIzbranaBarva" />
+        <Button Name="rdeca"  Margin="10" Width="63" Height="55" Background="Red" Click="ClickIzbranaBarva" />
+        <Button Name="svetlazelena"  Margin="10"  Width="63" Height="55" Background="LightGreen" Click="ClickIzbranaBarva"/>
+        <Button Name="modra"  Margin="10"  Width="63" Height="55" Background="DeepSkyBlue" Click="ClickIzbranaBarva"/>
+        <Button Name="svetlarumena"  Margin="10"  Width="63" Height="55" Background="LightYellow" Click="ClickIzbranaBarva"/>
+        <Button Name="svetlaroza"  Margin="10"  Width="63" Height="55" Background="LightPink" Click="ClickIzbranaBarva" />
+        <Button Name="oranzna"  Margin="10"  Width="63" Height="55" Background="Orange" Click="ClickIzbranaBarva" />
+        <Button Name="svetlavijola"  Margin="10"  Width="63" Height="55" Background="MediumPurple" Click="ClickIzbranaBarva" />
+        <Button Name="rjava"  Margin="10"  Width="63" Height="55" Background="RosyBrown" Click="ClickIzbranaBarva" />
+        <Button Name="svetlosiva"  Margin="10"  Width="63" Height="55" Background="LightGray" Click="ClickIzbranaBarva" />
+    </WrapPanel>
+</Controls:MetroWindow>
