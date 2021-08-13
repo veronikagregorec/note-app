@@ -2,6 +2,14 @@
 
 Created with C#
 
+## Installation
+
+<a href="https://www.geeksforgeeks.org/how-to-install-and-setup-visual-studio-for-c-sharp/">How to install and setup Visual Studio?</a>
+
+The article describes nine steps but for using this app installation contains five steps from first to fifth, so after last step click Zapisnik.sln and then Start button.
+
+## Description
+
 ### Create
 
 The app allows you to create notes, so you can type a title and a content. You can also set a font and a date.
