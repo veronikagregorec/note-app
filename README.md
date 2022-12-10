@@ -1,6 +1,6 @@
 # WPF Note App
 
-Created with C#
+Created with C#.
 
 ## Installation
 
