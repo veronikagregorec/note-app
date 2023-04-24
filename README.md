@@ -1,14 +1,16 @@
 # WPF Note App
 
-Created with C#.
+The app allows to create notes and save them in NoSQL database.
 
 ## Installation
+
+#### Steps to install
 
 <a href="https://www.geeksforgeeks.org/how-to-install-and-setup-visual-studio-for-c-sharp/">How to install and setup Visual Studio?</a>
 
 The article describes nine steps but for using this app installation contains five steps from first to fifth, so after last step click Zapisnik.sln and then Start button.
 
-## Description
+## Screenshots
 
 ### Create
 
@@ -68,4 +70,4 @@ Close the app with Da, with Ne the app stays open.
 ![](screenshots/close.png)
 
 
-[Back To The Top](#wpf-note-app)
+[Back to the top](#wpf-note-app)
